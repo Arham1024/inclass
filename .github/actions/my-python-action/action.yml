@@ -1,0 +1,5 @@
+name: 'My Python Action'
+description: 'A custom GitHub Action for Python applications'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
